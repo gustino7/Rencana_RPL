@@ -1,2 +1,4 @@
 Rencana Baru
 Latihan Javascript
+Programming Language
+* Golang
